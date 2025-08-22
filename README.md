@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muskanportfolio19.netlify.app/](https://muskanportfolio19.netlify.app/)
 
-- 💬 Ask me about **Advance Java, HTML, CSS, JavaScript, Spring nad SpringBoot**
+- 💬 Ask me about **Advance Java, HTML, CSS, JavaScript, Spring and SpringBoot**
 
 - 📫 How to reach me **muskanpandel@gmail.com**
 
